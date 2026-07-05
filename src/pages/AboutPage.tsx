@@ -1,19 +1,19 @@
 import { SiteShell } from "@/components/SiteShell";
 
-const TEAM = [
-  { name: "Ida Møller", role: "Founding Partner", image: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=800&q=80" },
-  { name: "Jonas Ryde", role: "Founding Partner", image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=800&q=80" },
-  { name: "Astrid Lund", role: "Head of Interiors", image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=800&q=80" },
-  { name: "Mateo Reyes", role: "Head of Façades", image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80" },
-];
+// const TEAM = [
+//   { name: "Ida Møller", role: "Founding Partner", image: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=800&q=80" },
+//   { name: "Jonas Ryde", role: "Founding Partner", image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=800&q=80" },
+//   { name: "Astrid Lund", role: "Head of Interiors", image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=800&q=80" },
+//   { name: "Mateo Reyes", role: "Head of Façades", image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80" },
+// ];
 
-const AWARDS = [
-  { year: "2024", title: "AR House Award", note: "Willow House, Copenhagen" },
-  { year: "2024", title: "Dezeen Awards, Longlist", note: "Kestrel Tower, Rotterdam" },
-  { year: "2023", title: "Wallpaper* Design Award", note: "Atelier Marais, Paris" },
-  { year: "2022", title: "RIBA International Prize, Nominee", note: "Nordhavn Pavilion" },
-  { year: "2020", title: "AJ Small Projects, Winner", note: "Sea-house, Skagen" },
-];
+// const AWARDS = [
+//   { year: "2024", title: "AR House Award", note: "Willow House, Copenhagen" },
+//   { year: "2024", title: "Dezeen Awards, Longlist", note: "Kestrel Tower, Rotterdam" },
+//   { year: "2023", title: "Wallpaper* Design Award", note: "Atelier Marais, Paris" },
+//   { year: "2022", title: "RIBA International Prize, Nominee", note: "Nordhavn Pavilion" },
+//   { year: "2020", title: "AJ Small Projects, Winner", note: "Sea-house, Skagen" },
+// ];
 
 const SERVICES = ["Interiors", "Façades", "Consultation"];
 

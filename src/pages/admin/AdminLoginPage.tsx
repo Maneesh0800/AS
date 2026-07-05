@@ -28,7 +28,6 @@ export function AdminLoginPage() {
       <section className="container-editorial py-24 max-w-md">
         <div className="eyebrow">Studio</div>
         <h1 className="mt-4 font-serif text-4xl">Admin login</h1>
-        <p className="mt-4 text-sm text-muted-foreground">Demo credentials: admin@studio.com / admin123</p>
         <form onSubmit={onSubmit} className="mt-10 space-y-6">
           <div>
             <label className="text-xs uppercase tracking-widest text-muted-foreground">Email</label>

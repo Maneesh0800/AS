@@ -331,7 +331,7 @@ function HeroContent() {
   return (
     <div className="container-editorial relative z-10 pb-16 md:pb-24 pointer-events-none">
       <div className="max-w-3xl fade-up pointer-events-auto">
-        <div className="eyebrow text-white/80">Est. 2004 · Copenhagen</div>
+        <div className="eyebrow text-white/80">Est. 2018 · Nellore</div>
         <h1 className="mt-6 font-serif text-5xl md:text-7xl lg:text-8xl leading-[0.95] text-white drop-shadow-md">
           Architecture of<br />
           <span className="italic text-accent">quiet</span> intention.

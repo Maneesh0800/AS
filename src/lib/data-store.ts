@@ -198,12 +198,13 @@ export const HERO_PANORAMA_URL = asset("hero-panorama.webp");
 
 /** Room zone labels — calibrated for the Indian metro city open-plan panorama */
 export const HERO_ZONE_LABELS = [
-  { id: "dining",    label: "Dining Area",    yaw: -2.30, pitch: -0.05 },
-  { id: "kitchen",   label: "Kitchen",        yaw: -1.50, pitch:  0.00 },
-  { id: "living",    label: "Living Room",    yaw: -0.40, pitch: -0.05 },
-  { id: "windows",   label: "City View",      yaw:  0.30, pitch:  0.10 },
-  { id: "lounge",    label: "Lounge Corner",  yaw:  1.20, pitch:  0.00 },
-  { id: "terrace",   label: "Terrace",        yaw:  2.20, pitch:  0.00 },
+  { id: "kitchen",   label: "Kitchen",             yaw: -3.30, pitch:  0.00 },
+  { id: "dining",    label: "Dining Area",         yaw: -2.10, pitch: -0.05 },
+  { id: "bedroom",   label: "Bedroom",             yaw: -1.50, pitch:  0.00 },
+  { id: "living",    label: "Living Room",         yaw: -0.40, pitch: -0.05 },
+  { id: "windows",   label: "City View",           yaw:  0.40, pitch:  0.10 },
+  { id: "balcony",   label: "Open-Sky Balcony",    yaw:  1.20, pitch:  0.00 },
+  { id: "drawing",   label: "Drawing Area",        yaw:  2.20, pitch:  0.00 },
 ] as const;
 
 /** Portfolio hotspots (optional — link to projects) */

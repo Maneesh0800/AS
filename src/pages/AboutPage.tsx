@@ -26,7 +26,7 @@ export function AboutPage() {
           <h1 className="mt-4 font-serif text-5xl md:text-7xl leading-[0.95]">A quiet<br />practice.</h1>
         </div>
         <div className="md:col-span-6 md:col-start-7 space-y-6 text-foreground/80 text-lg leading-relaxed">
-          <p>Archz Studiø is a small architecture studio founded in Copenhagen in 2004. We work at every scale — from the door handle to the city block — because architecture is one continuous act of care.</p>
+          <p>Archz Studiø is a small architecture studio founded in Nellore in 2018. We work at every scale — from the door handle to the city block — because architecture is one continuous act of care.</p>
           <p>We believe good buildings are built slowly, and that the strongest gesture is often the most restrained one.</p>
         </div>
       </section>
@@ -40,7 +40,7 @@ export function AboutPage() {
         </div>
       </section>
 
-      <section className="container-editorial py-16 md:py-24 border-t border-border/60">
+      {/* <section className="container-editorial py-16 md:py-24 border-t border-border/60">
         <div className="eyebrow">Team</div>
         <h2 className="mt-4 font-serif text-4xl md:text-5xl">People</h2>
         <div className="mt-12 grid gap-8 grid-cols-2 md:grid-cols-4">
@@ -74,7 +74,7 @@ export function AboutPage() {
             ))}
           </ul>
         </div>
-      </section>
+      </section> */}
     </SiteShell>
   );
 }

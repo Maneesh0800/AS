@@ -7,7 +7,7 @@ export function SiteFooter() {
         <div className="md:col-span-4">
           <div className="font-serif text-2xl">Archz Studiø</div>
           <p className="mt-4 text-sm text-muted-foreground max-w-xs leading-relaxed">
-            Architecture of quiet intention — interiors and façades from Copenhagen, Paris and Rotterdam.
+            Architecture of quiet intention — interiors and façades from Nellore, India.
           </p>
         </div>
         <div className="md:col-span-2 md:col-start-6">
@@ -22,9 +22,8 @@ export function SiteFooter() {
         <div className="md:col-span-2">
           <div className="eyebrow">Studio</div>
           <ul className="mt-4 space-y-2 text-sm text-muted-foreground">
-            <li>Copenhagen</li>
-            <li>Paris</li>
-            <li>Rotterdam</li>
+            <li>Nellore</li>
+            <li>India</li>
           </ul>
         </div>
         <div className="md:col-span-2">

@@ -34,23 +34,23 @@ export function ContactPage() {
           <h1 className="mt-4 font-serif text-5xl md:text-6xl leading-tight">Start a conversation.</h1>
           <div className="mt-10 space-y-6 text-sm text-muted-foreground">
             <div>
-              <div className="eyebrow mb-2">Copenhagen</div>
-              <p>Strandgade 12, 1401 Copenhagen K</p>
-              <p>+45 33 12 45 67</p>
+              <div className="eyebrow mb-2">Nellore</div>
+              <p>Electric House, Gandhi Center</p>
+              <p>+91 8801354995</p>
             </div>
             <div>
               <div className="eyebrow mb-2">Hours</div>
-              <p>Mon — Fri, 9:00 — 18:00 CET</p>
+              <p>Mon — Sat, 9:00 — 18:00 </p>
             </div>
             <div>
               <div className="eyebrow mb-2">Email</div>
-              <a href="mailto:hello@mollerryde.com" className="hover:text-accent">hello@mollerryde.com</a>
+              <a href="mailto:naveen@archz.studio" className="hover:text-accent">naveen@archz.studio</a>
             </div>
           </div>
           <div className="mt-10 aspect-[16/10] bg-muted overflow-hidden">
             <iframe
               title="Office location"
-              src="https://maps.google.com/maps?q=Copenhagen&output=embed"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d331.55934816135544!2d79.98507201377126!3d14.453746515625364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4c8cca0e958771%3A0xd3036c2025161f55!2sNellore%2C%20Andhra%20Pradesh!5e1!3m2!1sen!2sin!4v1783270655495!5m2!1sen!2sin"
               className="w-full h-full border-0 grayscale"
               loading="lazy"
             />
